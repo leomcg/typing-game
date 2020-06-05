@@ -1,0 +1,14 @@
+.pending {
+  color: gray;
+  font-weight: bold;
+}
+
+.equal {
+  color: rgb(58, 211, 58);
+  font-weight: bold;
+}
+
+.different {
+  color: red;
+  font-weight: bold;
+}
